@@ -1,6 +1,6 @@
 # (Broken) Blog app
 
-This web application is broken. You have three objectives:
+This web application is broken. You have three objectives: 
 
  * Find the bugs and fix them. **You can assume that the tests describe the correct behaviour** (so you shouldn't modify anything in the `spec/` directory)
  * You need to get **all the tests passing**.
